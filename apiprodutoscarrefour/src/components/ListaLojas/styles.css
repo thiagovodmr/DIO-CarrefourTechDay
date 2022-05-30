@@ -1,0 +1,16 @@
+.lista-lojas-container{
+    margin-top: 2%;
+}
+
+.lista-lojas-container h1{
+    margin-bottom: 2%;
+}
+
+.alert{
+    text-align: center;
+    font-size: 20px;
+}
+
+a.btn{
+    text-align: end;
+}

@@ -1,0 +1,15 @@
+.image-carousel{
+    width: 100%;
+    margin: 20px;
+    border: 1px solid darkblue;
+}
+
+.carousel-caption{
+    margin: 25px;
+    position: relative !important;
+    width: 100%;
+    height: 100%;
+}
+.preco{
+    font-size: 30px;
+}

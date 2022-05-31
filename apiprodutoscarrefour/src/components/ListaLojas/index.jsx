@@ -17,7 +17,7 @@ function ListaLojas(){
                 {lojas.length > 0 ? lojas.map(loja => (
                     <ListGroup.Item key={loja.id} as="li" className="d-flex justify-content-between align-items-start">
                         {loja.name}
-                        <Link className="btn btn-primary" to={`detalhes/${loja.id}`}>
+                        <Link className="btn btn-primary" to={`produtos/${loja.id}`}>
                             Ver Produtos
                         </Link>
                     </ListGroup.Item>
